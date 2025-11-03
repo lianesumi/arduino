@@ -1,6 +1,6 @@
 Basico
-corrente corre do lado negativo para o positivo\n
-resistor antes do led para nao queimar o led\n
+corrente corre do lado negativo para o positivo
+resistor antes do led para nao queimar o led
 
 Placa UNO R3
 lado negativo: parte de baixo, GND
